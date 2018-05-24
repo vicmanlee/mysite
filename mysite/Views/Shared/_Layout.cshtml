@@ -34,6 +34,12 @@
     <script src="~/Content/plugins/charts-c3/plugin.js"></script>
     <!-- Input Mask Plugin -->
     <script src="~/Content/plugins/input-mask/plugin.js"></script>
+    <script>
+        function showMessage()
+        {
+            alert(1);
+        }
+    </script>
 </head>
 <body>
     <div class="page">
@@ -61,7 +67,7 @@
                         <div class="col-lg-3 ml-auto">
                             <form class="input-icon my-3 my-lg-0">
                                 <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
-                                <div class="input-icon-addon">
+                                <div class="input-icon-addon" onclick="showMessage()">
                                     <i class="fe fe-search"></i>
                                 </div>
                             </form>
@@ -69,16 +75,16 @@
                         <div class="col-lg order-lg-first">
                             <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
                                 <li class="nav-item">
-                                    <a href="@Url.Action("Index")" class="nav-link active"><i class="fe fe-home"></i>首页</a>
+                                    <a href="@Url.Action("Index","Home")" class="nav-link active"><i class="fe fe-home"></i>首页</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="@Url.Action("About")" class="nav-link"><i class="fe fe-file-text"></i>博文</a>
+                                    <a href="@Url.Action("Article","Home")" class="nav-link"><i class="fe fe-file-text"></i>博文</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="./gallery.html" class="nav-link"><i class="fe fe-image"></i>图集</a>
+                                    <a href="@Url.Action("Gallery","Home")" class="nav-link"><i class="fe fe-image"></i>图集</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="@Url.Action("About")" class="nav-link"><i class="fe fe-user"></i> 关于我</a>
+                                    <a href="@Url.Action("About","Home")" class="nav-link"><i class="fe fe-user"></i> 关于我</a>
                                 </li>
                             </ul>
                         </div>
@@ -93,6 +99,21 @@
         </div>
         <footer class="footer">
             <div class="container">
+                <div class="row align-items-center flex-row-reverse">
+                    <div class="col-auto ml-lg-auto">
+                        <div class="row align-items-center">
+                            <div class="col-auto">
+                                
+                            </div>
+                            <div class="col-auto">
+                                <a href="#" class="btn btn-outline-primary btn-sm">联系我</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+                        Copyright © 2018 <a href=".">K·L</a>. All rights reserved.
+                    </div>
+                </div>
             </div>
         </footer>
     </div>

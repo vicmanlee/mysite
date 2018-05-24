@@ -85,3 +85,4 @@ C:\IWork\mysite\mysite\mysite\obj\Debug\mysite.csproj.CoreCompileInputs.cache
 C:\IWork\mysite\mysite\mysite\obj\Debug\mysite.csproj.CopyComplete
 C:\IWork\mysite\mysite\mysite\obj\Debug\mysite.dll
 C:\IWork\mysite\mysite\mysite\obj\Debug\mysite.pdb
+C:\IWork\mysite\mysite\mysite\obj\Debug\mysite.csprojAssemblyReference.cache
