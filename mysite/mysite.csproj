@@ -106,7 +106,81 @@
     <Content Include="Content\css\dashboard.rtl.css" />
     <Content Include="Content\css\tabler.css" />
     <Content Include="Content\css\tabler.rtl.css" />
-    <Content Include="Content\font\feather\feather-webfont.svg" />
+    <Content Include="Content\fonts\feather\feather-webfont.svg" />
+    <Content Include="Content\images\brand\kai.png" />
+    <Content Include="Content\images\brand\li.png" />
+    <Content Include="Content\images\faces\female\1.jpg" />
+    <Content Include="Content\images\faces\female\10.jpg" />
+    <Content Include="Content\images\faces\female\11.jpg" />
+    <Content Include="Content\images\faces\female\12.jpg" />
+    <Content Include="Content\images\faces\female\13.jpg" />
+    <Content Include="Content\images\faces\female\14.jpg" />
+    <Content Include="Content\images\faces\female\15.jpg" />
+    <Content Include="Content\images\faces\female\16.jpg" />
+    <Content Include="Content\images\faces\female\17.jpg" />
+    <Content Include="Content\images\faces\female\18.jpg" />
+    <Content Include="Content\images\faces\female\19.jpg" />
+    <Content Include="Content\images\faces\female\2.jpg" />
+    <Content Include="Content\images\faces\female\20.jpg" />
+    <Content Include="Content\images\faces\female\21.jpg" />
+    <Content Include="Content\images\faces\female\22.jpg" />
+    <Content Include="Content\images\faces\female\23.jpg" />
+    <Content Include="Content\images\faces\female\24.jpg" />
+    <Content Include="Content\images\faces\female\25.jpg" />
+    <Content Include="Content\images\faces\female\26.jpg" />
+    <Content Include="Content\images\faces\female\27.jpg" />
+    <Content Include="Content\images\faces\female\28.jpg" />
+    <Content Include="Content\images\faces\female\29.jpg" />
+    <Content Include="Content\images\faces\female\3.jpg" />
+    <Content Include="Content\images\faces\female\30.jpg" />
+    <Content Include="Content\images\faces\female\31.jpg" />
+    <Content Include="Content\images\faces\female\32.jpg" />
+    <Content Include="Content\images\faces\female\4.jpg" />
+    <Content Include="Content\images\faces\female\5.jpg" />
+    <Content Include="Content\images\faces\female\6.jpg" />
+    <Content Include="Content\images\faces\female\7.jpg" />
+    <Content Include="Content\images\faces\female\8.jpg" />
+    <Content Include="Content\images\faces\female\9.jpg" />
+    <Content Include="Content\images\faces\male\1.jpg" />
+    <Content Include="Content\images\faces\male\10.jpg" />
+    <Content Include="Content\images\faces\male\11.jpg" />
+    <Content Include="Content\images\faces\male\12.jpg" />
+    <Content Include="Content\images\faces\male\13.jpg" />
+    <Content Include="Content\images\faces\male\14.jpg" />
+    <Content Include="Content\images\faces\male\15.jpg" />
+    <Content Include="Content\images\faces\male\16.jpg" />
+    <Content Include="Content\images\faces\male\17.jpg" />
+    <Content Include="Content\images\faces\male\18.jpg" />
+    <Content Include="Content\images\faces\male\2.jpg" />
+    <Content Include="Content\images\faces\male\20.jpg" />
+    <Content Include="Content\images\faces\male\21.jpg" />
+    <Content Include="Content\images\faces\male\24.jpg" />
+    <Content Include="Content\images\faces\male\25.jpg" />
+    <Content Include="Content\images\faces\male\26.jpg" />
+    <Content Include="Content\images\faces\male\27.jpg" />
+    <Content Include="Content\images\faces\male\28.jpg" />
+    <Content Include="Content\images\faces\male\29.jpg" />
+    <Content Include="Content\images\faces\male\3.jpg" />
+    <Content Include="Content\images\faces\male\30.jpg" />
+    <Content Include="Content\images\faces\male\31.jpg" />
+    <Content Include="Content\images\faces\male\32.jpg" />
+    <Content Include="Content\images\faces\male\33.jpg" />
+    <Content Include="Content\images\faces\male\34.jpg" />
+    <Content Include="Content\images\faces\male\35.jpg" />
+    <Content Include="Content\images\faces\male\36.jpg" />
+    <Content Include="Content\images\faces\male\37.jpg" />
+    <Content Include="Content\images\faces\male\38.jpg" />
+    <Content Include="Content\images\faces\male\39.jpg" />
+    <Content Include="Content\images\faces\male\4.jpg" />
+    <Content Include="Content\images\faces\male\40.jpg" />
+    <Content Include="Content\images\faces\male\41.jpg" />
+    <Content Include="Content\images\faces\male\42.jpg" />
+    <Content Include="Content\images\faces\male\43.jpg" />
+    <Content Include="Content\images\faces\male\5.jpg" />
+    <Content Include="Content\images\faces\male\6.jpg" />
+    <Content Include="Content\images\faces\male\7.jpg" />
+    <Content Include="Content\images\faces\male\8.jpg" />
+    <Content Include="Content\images\faces\male\9.jpg" />
     <Content Include="Content\js\core.js" />
     <Content Include="Content\js\dashboard.js" />
     <Content Include="Content\js\require.min.js" />
@@ -142,6 +216,7 @@
     <Content Include="Content\plugins\prismjs\plugin.css" />
     <Content Include="Content\plugins\prismjs\plugin.js" />
     <Content Include="Global.asax" />
+    <Content Include="favicon.ico" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -200,9 +275,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
-    <Content Include="Content\font\feather\feather-webfont.eot" />
-    <Content Include="Content\font\feather\feather-webfont.ttf" />
-    <Content Include="Content\font\feather\feather-webfont.woff" />
+    <Content Include="Content\fonts\feather\feather-webfont.eot" />
+    <Content Include="Content\fonts\feather\feather-webfont.ttf" />
+    <Content Include="Content\fonts\feather\feather-webfont.woff" />
     <Content Include="Content\plugins\iconfonts\fonts\materialdesignicons\materialdesignicons-webfont.eot" />
     <Content Include="Content\plugins\iconfonts\fonts\materialdesignicons\materialdesignicons-webfont.ttf" />
     <Content Include="Content\plugins\iconfonts\fonts\materialdesignicons\materialdesignicons-webfont.woff" />
@@ -222,6 +297,7 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\About.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -231,7 +307,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Content\images\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
