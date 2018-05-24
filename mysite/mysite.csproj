@@ -102,6 +102,45 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\css\dashboard.css" />
+    <Content Include="Content\css\dashboard.rtl.css" />
+    <Content Include="Content\css\tabler.css" />
+    <Content Include="Content\css\tabler.rtl.css" />
+    <Content Include="Content\font\feather\feather-webfont.svg" />
+    <Content Include="Content\js\core.js" />
+    <Content Include="Content\js\dashboard.js" />
+    <Content Include="Content\js\require.min.js" />
+    <Content Include="Content\js\vendors\bootstrap.bundle.min.js" />
+    <Content Include="Content\js\vendors\chart.bundle.min.js" />
+    <Content Include="Content\js\vendors\circle-progress.min.js" />
+    <Content Include="Content\js\vendors\jquery-3.2.1.min.js" />
+    <Content Include="Content\js\vendors\jquery-3.2.1.slim.min.js" />
+    <Content Include="Content\js\vendors\jquery-jvectormap-2.0.3.min.js" />
+    <Content Include="Content\js\vendors\jquery-jvectormap-de-merc.js" />
+    <Content Include="Content\js\vendors\jquery-jvectormap-world-mill.js" />
+    <Content Include="Content\js\vendors\jquery.sparkline.min.js" />
+    <Content Include="Content\js\vendors\jquery.tablesorter.min.js" />
+    <Content Include="Content\js\vendors\selectize.min.js" />
+    <Content Include="Content\plugins\charts-c3\js\c3.min.js" />
+    <Content Include="Content\plugins\charts-c3\js\d3.v3.min.js" />
+    <Content Include="Content\plugins\charts-c3\plugin.css" />
+    <Content Include="Content\plugins\charts-c3\plugin.js" />
+    <Content Include="Content\plugins\fullcalendar\js\fullcalendar.min.js" />
+    <Content Include="Content\plugins\fullcalendar\js\moment.min.js" />
+    <Content Include="Content\plugins\fullcalendar\plugin.css" />
+    <Content Include="Content\plugins\fullcalendar\plugin.js" />
+    <Content Include="Content\plugins\iconfonts\fonts\materialdesignicons\materialdesignicons-webfont.svg" />
+    <Content Include="Content\plugins\iconfonts\fonts\simple-line-icons\Simple-Line-Icons.svg" />
+    <Content Include="Content\plugins\iconfonts\fonts\themify\themify.svg" />
+    <Content Include="Content\plugins\iconfonts\fonts\weathericons\weathericons-regular-webfont.svg" />
+    <Content Include="Content\plugins\iconfonts\plugin.css" />
+    <Content Include="Content\plugins\input-mask\js\jquery.mask.min.js" />
+    <Content Include="Content\plugins\input-mask\plugin.js" />
+    <Content Include="Content\plugins\maps-google\plugin.css" />
+    <Content Include="Content\plugins\maps-google\plugin.js" />
+    <Content Include="Content\plugins\prismjs\js\prism.pack.js" />
+    <Content Include="Content\plugins\prismjs\plugin.css" />
+    <Content Include="Content\plugins\prismjs\plugin.js" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -161,6 +200,24 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
+    <Content Include="Content\font\feather\feather-webfont.eot" />
+    <Content Include="Content\font\feather\feather-webfont.ttf" />
+    <Content Include="Content\font\feather\feather-webfont.woff" />
+    <Content Include="Content\plugins\iconfonts\fonts\materialdesignicons\materialdesignicons-webfont.eot" />
+    <Content Include="Content\plugins\iconfonts\fonts\materialdesignicons\materialdesignicons-webfont.ttf" />
+    <Content Include="Content\plugins\iconfonts\fonts\materialdesignicons\materialdesignicons-webfont.woff" />
+    <Content Include="Content\plugins\iconfonts\fonts\materialdesignicons\materialdesignicons-webfont.woff2" />
+    <Content Include="Content\plugins\iconfonts\fonts\simple-line-icons\Simple-Line-Icons.eot" />
+    <Content Include="Content\plugins\iconfonts\fonts\simple-line-icons\Simple-Line-Icons.ttf" />
+    <Content Include="Content\plugins\iconfonts\fonts\simple-line-icons\Simple-Line-Icons.woff" />
+    <Content Include="Content\plugins\iconfonts\fonts\simple-line-icons\Simple-Line-Icons.woff2" />
+    <Content Include="Content\plugins\iconfonts\fonts\themify\themify.eot" />
+    <Content Include="Content\plugins\iconfonts\fonts\themify\themify.ttf" />
+    <Content Include="Content\plugins\iconfonts\fonts\themify\themify.woff" />
+    <Content Include="Content\plugins\iconfonts\fonts\weathericons\weathericons-regular-webfont.eot" />
+    <Content Include="Content\plugins\iconfonts\fonts\weathericons\weathericons-regular-webfont.ttf" />
+    <Content Include="Content\plugins\iconfonts\fonts\weathericons\weathericons-regular-webfont.woff" />
+    <Content Include="Content\plugins\iconfonts\fonts\weathericons\weathericons-regular-webfont.woff2" />
     <None Include="packages.config" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\_ViewStart.cshtml" />
@@ -174,6 +231,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Content\images\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
