@@ -1,3 +1,9 @@
+C:\IWork\mysite\mysite\mysite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\IWork\mysite\mysite\mysite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\IWork\mysite\mysite\mysite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\IWork\mysite\mysite\mysite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\IWork\mysite\mysite\mysite\bin\roslyn\System.IO.Compression.dll
+C:\IWork\mysite\mysite\mysite\bin\roslyn\VBCSCompiler.exe
 C:\IWork\mysite\mysite\mysite\bin\mysite.dll.config
 C:\IWork\mysite\mysite\mysite\bin\mysite.dll
 C:\IWork\mysite\mysite\mysite\bin\mysite.pdb
@@ -8,13 +14,9 @@ C:\IWork\mysite\mysite\mysite\bin\roslyn\csi.exe
 C:\IWork\mysite\mysite\mysite\bin\roslyn\csi.exe.config
 C:\IWork\mysite\mysite\mysite\bin\roslyn\csi.rsp
 C:\IWork\mysite\mysite\mysite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\IWork\mysite\mysite\mysite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
 C:\IWork\mysite\mysite\mysite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\IWork\mysite\mysite\mysite\bin\roslyn\Microsoft.CodeAnalysis.dll
 C:\IWork\mysite\mysite\mysite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\IWork\mysite\mysite\mysite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 C:\IWork\mysite\mysite\mysite\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\IWork\mysite\mysite\mysite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
 C:\IWork\mysite\mysite\mysite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
 C:\IWork\mysite\mysite\mysite\bin\roslyn\Microsoft.VisualBasic.Core.targets
 C:\IWork\mysite\mysite\mysite\bin\roslyn\Microsoft.Win32.Primitives.dll
@@ -24,7 +26,6 @@ C:\IWork\mysite\mysite\mysite\bin\roslyn\System.Console.dll
 C:\IWork\mysite\mysite\mysite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
 C:\IWork\mysite\mysite\mysite\bin\roslyn\System.Diagnostics.Process.dll
 C:\IWork\mysite\mysite\mysite\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\IWork\mysite\mysite\mysite\bin\roslyn\System.IO.Compression.dll
 C:\IWork\mysite\mysite\mysite\bin\roslyn\System.IO.FileSystem.dll
 C:\IWork\mysite\mysite\mysite\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
 C:\IWork\mysite\mysite\mysite\bin\roslyn\System.IO.FileSystem.Primitives.dll
@@ -47,7 +48,6 @@ C:\IWork\mysite\mysite\mysite\bin\roslyn\System.Xml.XPath.XDocument.dll
 C:\IWork\mysite\mysite\mysite\bin\roslyn\vbc.exe
 C:\IWork\mysite\mysite\mysite\bin\roslyn\vbc.exe.config
 C:\IWork\mysite\mysite\mysite\bin\roslyn\vbc.rsp
-C:\IWork\mysite\mysite\mysite\bin\roslyn\VBCSCompiler.exe
 C:\IWork\mysite\mysite\mysite\bin\roslyn\VBCSCompiler.exe.config
 C:\IWork\mysite\mysite\mysite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\IWork\mysite\mysite\mysite\bin\Microsoft.Web.Infrastructure.dll
@@ -61,13 +61,13 @@ C:\IWork\mysite\mysite\mysite\bin\System.Web.Razor.dll
 C:\IWork\mysite\mysite\mysite\bin\System.Web.Webpages.Deployment.dll
 C:\IWork\mysite\mysite\mysite\bin\System.Web.Webpages.dll
 C:\IWork\mysite\mysite\mysite\bin\System.Web.Webpages.Razor.dll
+C:\IWork\mysite\mysite\mysite\bin\Newtonsoft.Json.xml
 C:\IWork\mysite\mysite\mysite\bin\System.Web.Razor.xml
 C:\IWork\mysite\mysite\mysite\bin\System.Web.Webpages.xml
 C:\IWork\mysite\mysite\mysite\bin\System.Web.Webpages.Deployment.xml
 C:\IWork\mysite\mysite\mysite\bin\System.Web.Webpages.Razor.xml
 C:\IWork\mysite\mysite\mysite\bin\System.Web.Helpers.xml
 C:\IWork\mysite\mysite\mysite\bin\System.Web.Mvc.xml
-C:\IWork\mysite\mysite\mysite\bin\Newtonsoft.Json.xml
 C:\IWork\mysite\mysite\mysite\bin\System.Net.Http.Formatting.xml
 C:\IWork\mysite\mysite\mysite\bin\System.Web.Http.xml
 C:\IWork\mysite\mysite\mysite\bin\System.Web.Http.WebHost.xml
@@ -81,7 +81,6 @@ C:\IWork\mysite\mysite\mysite\bin\zh-Hans\System.Web.Mvc.resources.dll
 C:\IWork\mysite\mysite\mysite\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
 C:\IWork\mysite\mysite\mysite\bin\zh-Hans\System.Web.Http.resources.dll
 C:\IWork\mysite\mysite\mysite\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
-C:\IWork\mysite\mysite\mysite\obj\Debug\mysite.csprojAssemblyReference.cache
 C:\IWork\mysite\mysite\mysite\obj\Debug\mysite.csproj.CoreCompileInputs.cache
 C:\IWork\mysite\mysite\mysite\obj\Debug\mysite.csproj.CopyComplete
 C:\IWork\mysite\mysite\mysite\obj\Debug\mysite.dll
